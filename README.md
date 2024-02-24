@@ -1,6 +1,14 @@
 # WeSplit
 
-<img src="assets/WeSplit_Screenshot1.png" alt="image1" width="200"/>
+<b>
+  WeSplit is an iOS app that allows the user to split checks by however many people they want.
+<b/>
+
+## Technology Used:
+- IDE : XCode
+- Language : Swift
+
+## Screenshots
 
 ![WeSplit_Screenshot1](https://github.com/eemont/WeSplit/assets/78556236/ebb81899-6794-4db1-a93d-7b1977a04461)
 
